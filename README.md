@@ -17,3 +17,11 @@
 
 - File name: Riot_0.6.1.zip
   Hash: B17610CCB2612153B07DB68AC2234D018CC67A160812A729D599E846E1138EB2
+
+## [Source-code-pro](https://github.com/adobe-fonts/source-code-pro)
+
+## Version 2.030
+
+- File name: Source-code-pro_2.030.zip
+  Hash: 176E7363BE8620C8ABCE2C96DF845F0DBE158360DFC4EC89DEA6898B5DEC0B59
+  
